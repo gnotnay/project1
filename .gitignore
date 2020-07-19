@@ -1,1 +1,5 @@
 /node_modules
+/out
+/.vscode
+/.gitignore
+/jest.config.js
