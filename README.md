@@ -750,8 +750,4 @@
 1354.Construct-Target-Array-With-Multiple-Sums (TBD)    
 1262.Greatest-Sum-Divisible-by-Three (TBD)    
 1363.Largest-Multiple-of-Three (TBD)    
-1452.People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List (TBD)    
-
-#### [Templates](https://github.com/wisdompeak/LeetCode/tree/master/Template)  
-=======
-# 分类
+1452.People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List (TBD)
