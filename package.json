@@ -19,6 +19,7 @@
   "dependencies": {
     "@babel/register": "^7.10.5",
     "@types/jest": "^26.0.5",
+    "@types/lodash": "^4.14.160",
     "jest": "^26.1.0",
     "lodash": "^4.17.20",
     "ts-jest": "^26.1.3",
