@@ -1,15 +1,15 @@
 ## 08/29 (DFS + Sweep Line)
 ### DFS
-1. [489.Robot-Room-Cleaner](https://leetcode.com/problems/robot-room-cleaner/) (H)   
+1. [489.Robot-Room-Cleaner](https://github.com/wisdompeak/LeetCode/blob/master/DFS/489.Robot-Room-Cleaner) (H)   
 ### Sweep Line
 2. [252.Meeting-Rooms](https://github.com/wisdompeak/LeetCode/tree/master/Sort/252.Meeting-Rooms) (M)    
 3. [057.Insert-Intervals](https://github.com/wisdompeak/LeetCode/tree/master/Sort/057.Insert-Interval) (M)    
-4. [732.My-Calendar-III](https://github.com/wisdompeak/LeetCode/tree/master/Sort/732.My-Calendar-III) (M)   
+4. [732.My-Calendar-III](https://github.com/wisdompeak/LeetCode/tree/master/Sort/732.My-Calendar-III) (M)    
 5. [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) (M) 一个数组，De Morgan's laws   
 6. [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/) (M) 两个数组一个记录正常区间，一个记录重叠区间   
 
 ## 08/28 (Binary Search)
-1. [1533.Find-the-Index-of-the-Large-Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/) (M)  
+1. [1533.Find-the-Index-of-the-Large-Integer](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1533.Find-the-Index-of-the-Large-Integer) (M)  
 2. [1300.Sum-of-Mutated-Array-Closest-to-Target](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1300.Sum-of-Mutated-Array-Closest-to-Target) (M+)   
 3. [215.Kth-Largest-Element-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/215.Kth-Largest-Element-in-an-Array) (M)  
 4. [1231.Divide-Chocolate](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1231.Divide-Chocolate) (M)   
