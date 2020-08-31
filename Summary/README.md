@@ -1,3 +1,9 @@
+## 08/30 (Union Find)
+[952.Largest-Component-Size-by-Common-Factor](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/952.Largest-Component-Size-by-Common-Factor) (H)   
+[969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) (M)   
+[684.Redundant-Connection](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/684.Redundant-Connection) (M)    
+[685.Redundant-Connection-II](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/685.Redundant-Connection-II) (H)   
+
 ## 08/29 (DFS + Sweep Line)
 ### DFS
 1. [489.Robot-Room-Cleaner](https://github.com/wisdompeak/LeetCode/blob/master/DFS/489.Robot-Room-Cleaner) (H)   
