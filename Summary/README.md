@@ -1,8 +1,15 @@
-## 08/30 (Union Find)
+## 09/01 (DFS + 坐标型DP)
+[949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) (E)  
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/) (M)  
+[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) (M)  
+
+## 08/30 (Union Find + Sort)
+### Union Find
 [952.Largest-Component-Size-by-Common-Factor](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/952.Largest-Component-Size-by-Common-Factor) (H)   
-[969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) (M)   
 [684.Redundant-Connection](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/684.Redundant-Connection) (M)    
 [685.Redundant-Connection-II](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/685.Redundant-Connection-II) (H)   
+### Sort
+[969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) (M)   
 
 ## 08/29 (DFS + Sweep Line)
 ### DFS
