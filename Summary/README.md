@@ -1,22 +1,30 @@
-## 09/01 (DFS + 坐标型DP)
+## 09/01 (序列型DP + 坐标型DP)
+### 序列型DP
+[256. Paint House](https://leetcode.com/problems/paint-house/) (E)  
+### 坐标型DP
+[361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) (M)  
+
+## 09/01 (DFS + 坐标型DP)  
+### DFS
 [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) (E)  
+### 坐标型DP  
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) (M)  
 [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) (M)  
 
-## 08/30 (Union Find + Sort)
-### Union Find
+## 08/30 (Union Find + Sort)  
+### Union Find  
 [952.Largest-Component-Size-by-Common-Factor](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/952.Largest-Component-Size-by-Common-Factor) (H)   
 [684.Redundant-Connection](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/684.Redundant-Connection) (M)    
 [685.Redundant-Connection-II](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/685.Redundant-Connection-II) (H)   
-### Sort
+### Sort  
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) (M)   
 
-## 08/29 (DFS + Sweep Line)
-### DFS
+## 08/29 (DFS + Sweep Line)  
+### DFS  
 1. [489.Robot-Room-Cleaner](https://github.com/wisdompeak/LeetCode/blob/master/DFS/489.Robot-Room-Cleaner) (H)   
 7. [337.House-Robber-III](https://github.com/wisdompeak/LeetCode/tree/master/DFS/337.House-Robber-III) (M+) 递归的条件：canRob vs canNoRob  
 8. [473.Matchsticks-to-Square](https://github.com/wisdompeak/LeetCode/tree/master/DFS/473.Matchsticks-to-Square) (M+)    
-### Sweep Line
+### Sweep Line  
 2. [252.Meeting-Rooms](https://github.com/wisdompeak/LeetCode/tree/master/Sort/252.Meeting-Rooms) (M)    
 3. [057.Insert-Intervals](https://github.com/wisdompeak/LeetCode/tree/master/Sort/057.Insert-Interval) (M)    
 4. [732.My-Calendar-III](https://github.com/wisdompeak/LeetCode/tree/master/Sort/732.My-Calendar-III) (M)    
