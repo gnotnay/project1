@@ -1,6 +1,16 @@
+## 09/07 (双序列型DP + UnionFind + MST + Two Pointers)  
+1. [010.Regular-Expression-Matching](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/010.Regular-Expression-Matching) (H)  
+
+### UnionFind + MST
+2. [1579.Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1579.Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable) (H-)  
+###
+3. [1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted) (H-)  
+
+## 09/04 (双序列型DP)  
+1. [1035.Uncrossed-Lines](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1035.Uncrossed-Lines) (M)  
+
 ## 09/04 (Two Pointers)  
 1. [080.Remove Duplicates from Sorted Array II](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/080.Remove-Duplicates-from-Sorted-Array-II) (H)  
-
 
 ## 09/01 (序列型DP + 坐标型DP)
 ### 序列型DP
