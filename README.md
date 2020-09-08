@@ -29,6 +29,8 @@
 1052.Grumpy-Bookstore-Owner (M+)    
 [1234.Replace-the-Substring-for-Balanced-String](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1234.Replace-the-Substring-for-Balanced-String) (H-)   
 1498.Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition (TBD)    
+[1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted) (H-)  
+[1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers) (H-)  
 
 #### [Binary Search](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search)
 [004.Median-of-Two-Sorted-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/004.Median-of-Two-Sorted-Arrays) (H)   
@@ -98,10 +100,12 @@
 [1074.Number-of-Submatrices-That-Sum-to-Target](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1074.Number-of-Submatrices-That-Sum-to-Target) (M+)   
 1224.Maximum-Equal-Frequency (H-)  
 [1487.Making-File-Names-Unique](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1487.Making-File-Names-Unique) (M+)  
+[1573.Number-of-Ways-to-Split-a-String](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1573.Number-of-Ways-to-Split-a-String) (M)  
 * ``Hash+Prefix``    
 [930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M)   
 [1371.Find-the-Longest-Substring-Containing-Vowels-in-Even-Counts](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1371.Find-the-Longest-Substring-Containing-Vowels-in-Even-Counts) (H-)  
 [1542.Find-Longest-Awesome-Substring](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1542.Find-Longest-Awesome-Substring) (H)  
+1567.Maximum Length of Subarray With Positive Product (TBD)  
 
 #### [Heap](https://github.com/wisdompeak/LeetCode/tree/master/Heap)
 [295.Find-Median-from-Data-Stream](https://github.com/wisdompeak/LeetCode/tree/master/Heap/295.Find-Median-from-Data-Stream)  (M)   
@@ -162,6 +166,7 @@
 [1028.Recover-a-Tree-From-Preorder-Traversal](https://github.com/wisdompeak/LeetCode/tree/master/Tree/1028.Recover-a-Tree-From-Preorder-Traversal) (H-)   
 1339. Maximum-Product-of-Splitted-Binary-Tree (TBD)   
 [1516.Move-Sub-Tree-of-N-Ary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/1516.Move-Sub-Tree-of-N-Ary-Tree) (H-)  
+[1569.Number-of-Ways-to-Reorder-Array-to-Get-Same-BST](https://github.com/wisdompeak/LeetCode/tree/master/Tree/1569.Number-of-Ways-to-Reorder-Array-to-Get-Same-BST) (H)  
 
 #### [Segment Tree](https://github.com/wisdompeak/LeetCode/blob/master/Segment_Tree/)
 [307.Range-Sum-Query-Mutable](https://github.com/wisdompeak/LeetCode/blob/master/Segment_Tree/307.Range-Sum-Query-Mutable/) (M)   
@@ -312,12 +317,14 @@
 [913.Cat-and-Mouse](https://github.com/wisdompeak/LeetCode/tree/master/BFS/913.Cat-and-Mouse) (H+)    
 [1036.Escape-a-Large-Maze](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1036.Escape-a-Large-Maze) (H)  
 [1245.Tree-Diameter](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1245.Tree-Diameter) (H)    
-1263.Minimum-Moves-to-Move-a-Box-to-Their-Target-Location (H)   
-1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination (TBD)   
-1298.Maximum-Candies-You-Can-Get-from-Boxes (TBD)   
-1345.Jump Game IV (TBD)    
-1368.Minimum Cost to Make at Least One Valid Path in a Grid (TBD)    
-1559.Detect Cycles in 2D Grid (TBD)  
+[1263.Minimum-Moves-to-Move-a-Box-to-Their-Target-Location](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1263.Minimum-Moves-to-Move-a-Box-to-Their-Target-Location) (H)   
+[1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination) (H-)  
+[1298.Maximum-Candies-You-Can-Get-from-Boxes](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1298.Maximum-Candies-You-Can-Get-from-Boxes) (M+)  
+[1311.Get-Watched-Videos-by-Your-Friends](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1311.Get-Watched-Videos-by-Your-Friends) (M)  
+[1345.Jump-Game-IV](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1345.Jump-Game-IV) (M+)  
+[1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid) (H)  
+[1559.Detect-Cycles-in-2D-Grid](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1559.Detect-Cycles-in-2D-Grid) (M)  
+[1568.Minimum-Number-of-Days-to-Disconnect-Island](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1568.Minimum-Number-of-Days-to-Disconnect-Island) (H-)  
 * ``拓扑排序``   
 [207.Course-Schedule](https://github.com/wisdompeak/LeetCode/tree/master/BFS/207.Course-Schedule) (H-)   
 [210.Course-Schedule-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/210.Course-Schedule-II) (M)   
@@ -389,6 +396,7 @@
 [1526.Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1526.Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array) (H-)  
 [1535.Find-the-Winner-of-an-Array-Game](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1535.Find-the-Winner-of-an-Array-Game) (M+)  
 [1536.Minimum-Swaps-to-Arrange-a-Binary-Grid](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1536.Minimum-Swaps-to-Arrange-a-Binary-Grid) (H-)  
+[1564.Put-Boxes-Into-the-Warehouse-I](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1564.Put-Boxes-Into-the-Warehouse-I) (M+)  
 * ``Sort+PQ``   
 [502.IPO](https://github.com/wisdompeak/LeetCode/blob/master/Greedy/502.IPO/) （H-）   
 [630.Course-Schedule-III](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/630.Course-Schedule-III) (H)   
@@ -441,6 +449,8 @@
 1444. Number of Ways of Cutting a Pizza (TBD)   
 [1531.String-Compression-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1531.String-Compression-II) (H+)  
 1537. Get the Maximum Score (TBD)  
+[1575.Count-All-Possible-Routes](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1575.Count-All-Possible-Routes) (M+)  
+1578.Minimum Deletion Cost to Avoid Repeating Letters (TBD)  
 * ``基本型 I``   
 [198.House-Robber](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/198.House-Robber) (E)   
 [213.House-Robber-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/213.House-Robber-II) (M+)    
@@ -581,6 +591,7 @@
 * ``Rolling Hash``    
 [1044.Longest-Duplicate-Substring](https://github.com/wisdompeak/LeetCode/tree/master/String/1044.Longest-Duplicate-Substring) (H)    
 [1062.Longest-Repeating-Substring](https://github.com/wisdompeak/LeetCode/tree/master/String/1062.Longest-Repeating-Substring) (H-)   
+[1554.Strings-Differ-by-One-Character](https://github.com/wisdompeak/LeetCode/tree/master/String/1554.Strings-Differ-by-One-Character) (H)  
 * ``KMP``   
 [028.Implement-strStr](https://github.com/wisdompeak/LeetCode/tree/master/String/028.Implement-strStr) (H)    
 [214.Shortest-Palindrome](https://github.com/wisdompeak/LeetCode/blob/master/Others/214.Shortest-Palindrome) (H)     
@@ -637,6 +648,7 @@
 [1135.Connecting-Cities-With-Minimum-Cost](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1135.Connecting-Cities-With-Minimum-Cost)　(M+)   
 [1168.Optimize-Water-Distribution-in-a-Village](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1168.Optimize-Water-Distribution-in-a-Village) (H-)   
 1489.Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree (TBD)   
+[1579.Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1579.Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable) (H-)  
 
 #### [Recursion](https://github.com/wisdompeak/LeetCode/tree/master/Recursion)
 [133.Clone-Graph](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/133.Clone-Graph) (M+)  
@@ -660,7 +672,7 @@
 1545. Find Kth Bit in Nth Binary String (TBD)  
 [1553.Minimum-Number-of-Days-to-Eat-N-Oranges](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/1553.Minimum-Number-of-Days-to-Eat-N-Oranges) (H)  
 * ``Min-Max Strategy``    
-[877.Stone-Game](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/877.Stone-Game) (M+)    
+[877.Stone-Game](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/877.Stone-Game) (M+) (aka. 486.Predict-the-Winner)  
 [1140.Stone-Game-II](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/1140.Stone-Game-II) (M)  
 [1406.Stone-Game-III](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/1406.Stone-Game-III) (M+)  
 [1510.Stone-Game-IV](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/1510.Stone-Game-IV) (M)  
@@ -789,3 +801,4 @@
 #### [Templates](https://github.com/wisdompeak/LeetCode/tree/master/Template)  
 [Math_Pow](https://github.com/wisdompeak/LeetCode/tree/master/Template/Math_Pow)  
 [BIT](https://github.com/wisdompeak/LeetCode/tree/master/Template/BIT)  
+[Inverse_Element](https://github.com/wisdompeak/LeetCode/tree/master/Template/Inverse_Element)
