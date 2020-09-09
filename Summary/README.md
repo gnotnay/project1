@@ -1,3 +1,6 @@
+## 09/08 (双序列型DP)  
+1. [583.Delete-Operation-for-Two-Strings](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/583.Delete-Operation-for-Two-Strings) (M+)  
+
 ## 09/07 (双序列型DP + UnionFind + MST + Two Pointers)  
 1. [010.Regular-Expression-Matching](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/010.Regular-Expression-Matching) (H)  
 
