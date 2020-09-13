@@ -1,5 +1,9 @@
-## 09/12 (DFS)
+## 09/12 (DFS + 时间序列型DP)
 1. [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) (M-)  
+
+### 时间序列型DP
+2. [198.House-Robber](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/198.House-Robber) (E)  
+3. [213.House-Robber-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/213.House-Robber-II) (M+)  
 
 ## 09/08 (双序列型DP)  
 1. [583.Delete-Operation-for-Two-Strings](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/583.Delete-Operation-for-Two-Strings) (M+)  
@@ -9,7 +13,7 @@
 
 ### UnionFind + MST
 2. [1579.Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1579.Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable) (H-)  
-###
+### Two Pointers
 3. [1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted) (H-)  
 
 ## 09/04 (双序列型DP)  
