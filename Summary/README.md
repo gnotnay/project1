@@ -1,3 +1,6 @@
+## 09/12 (DFS)
+1. [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) (M-)  
+
 ## 09/08 (双序列型DP)  
 1. [583.Delete-Operation-for-Two-Strings](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/583.Delete-Operation-for-Two-Strings) (M+)  
 
