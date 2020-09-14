@@ -1,4 +1,4 @@
-var maxProfit = function(prices) {
+export const maxProfit = (prices: number[]): number => {
     // let f = new Array(prices.length + 1).fill([]).map(() => new Array(4).fill(0));
     // f[0][0] = Number.MIN_SAFE_INTEGER;
     // f[0][2] = Number.MIN_SAFE_INTEGER;
@@ -12,8 +12,8 @@ var maxProfit = function(prices) {
 
     // return Math.max(...f[prices.length]);
 
-    let buy1 = Number.MAX_SAFE_INTEGER, buy2 = Number.MAX_SAFE_INTEGER;
-    let sell1 = 0, sell2 = 0;
+    let buy1: number = Number.MAX_SAFE_INTEGER, buy2: number = Number.MAX_SAFE_INTEGER;
+    let sell1: number = 0, sell2: number = 0;
 
     for (let i = 0; i < prices.length; i++) {
         //只取决于前一天状态
