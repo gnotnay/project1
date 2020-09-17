@@ -1,6 +1,13 @@
+## 09/16 (Trie)
+1. [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) (M) 
+
+## 09/15 (时间序列型DP)
+1. [931.Minimum-Falling-Path-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/931.Minimum-Falling-Path-Sum) (M) 
+
 ## 09/13 (时间序列型DP)
 1. [123.Best-Time-to-Buy-and-Sell-Stock-III](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/123.Best-Time-to-Buy-and-Sell-Stock-III) (M+)  
 2. [309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) (H-)  
+3. [376.Wiggle-Subsequence](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/376.Wiggle-Subsequence) (H-)  
 
 ## 09/12 (DFS + 时间序列型DP)
 1. [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) (M-)  
